@@ -10,3 +10,7 @@ we chose this particular question because it represents the conflict present dur
 
 - managed the conflict, didn't resolve it, left the real difficulty to future generations
 - institutional fragility
+
+- Gliedern
+- mehr Zitieren
+- HintergrundinfosF
