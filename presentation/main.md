@@ -15,7 +15,7 @@ header: The Good Friday Agreement - sustainable peace or temporary solution?
 ---
 
 # The Good Friday Agreement
-*\- sustainable peace of temporary solution?*
+*\- sustainable peace or temporary solution?*
 
 ---
 
@@ -110,8 +110,43 @@ highest level of recruitment in Provisional IRA
 - British government
 - Irish government
 
+---
+
+# Background: The Troubles
+- started in 1968
+- ended with the Goof Friday Agreement in 1998
+- 3500 casulties and more than 40.000 injured
 
 ---
+
+# The Good Friday Agreement
+
+**The Three Strands**
+- Strand 1:
+  - Northern Ireland Assembly
+
+- Strand 2: 
+  - North/South Ministerial Council
+- Strand 3:
+  - British-Irish Council
+  - British-Irish Intergovernmental Conference
+
+---
+
+# The Good Friday Agreement
+
+**Principle of Consent**
+- Legally recognized Northern Ireland as part of the UK.
+- "Border Poll" - United Ireland only possible with majority in North and South
+- Republic of Ireland amended removed territorial claim to the North from constitution
+
+**Security and Justice Reforms**
+- decommissioning of paramilitary groups
+- police reforms
+- prisoner release
+
+---
+
 
 # The Good Friday Agreement
 
@@ -144,6 +179,16 @@ highest level of recruitment in Provisional IRA
 - broad agenda for economic resurrection
 - peace dividend
 - 'disappointingly small' impact for some communities
+
+---
+
+# The Good Friday Agreement
+
+## Social/Cultural Dimension
+
+- promoting the usage of the Irish Language
+- civic forum (new institution responsible for social, economical andn cultural issues)
+&rarr; *too little done to address the issues*
 
 ---
 
