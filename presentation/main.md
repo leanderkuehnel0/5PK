@@ -106,7 +106,7 @@ systematic discrimination of Catholics:
 
 ---
 
-![bg left:36%](./british-soldier.png)
+![bg left:36%](british-soldier.png)
 
 # Background of the Troubles
 **Emergence of the Provisional IRA (Provos) and loyalist paramilitaries**
