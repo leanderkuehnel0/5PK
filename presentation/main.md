@@ -52,7 +52,7 @@ header: The Good Friday Agreement - sustainable peace or temporary solution?
 3.4 Reactions of key actors
 4. Evaluation
 5.1 Weighing the achievements
-5.2 Weighing the weakneses
+5.2 Weighing the weaknesses
 5.3 Final judgement
 
 ---
@@ -78,7 +78,8 @@ peace?
 - "Old English" displacing Irish in Ulster
 - Division of the Isle of Ireland in Northern Ireland and Republic of
 Ireland
-systematic discrimination of Catholics:
+
+**Systematic Discrimination of Catholics:**
 - protestants outnumbered Catholics &rarr; biased voting
 - limited representation of Catholics
 
@@ -149,7 +150,7 @@ addressed and later peace walls were built
 # Background: The Troubles
 - started in 1968
 - ended with the Good Friday Agreement in 1998
-- 3500 casulties and more than 40.000 injured
+- 3500 casualties and more than 40.000 injured
 
 ---
 
@@ -229,7 +230,7 @@ of relationships among the peoples of these islands.
 
 # The Good Friday Agreement
 
-**The Three Strands**
+## The Three Strands
 - Strand 1: <span class="strand1">Northern Ireland Assembly</span>
 - Strand 2: <span class="strand2">North/South Ministerial Council</span>
 - Strand 3: 
@@ -360,7 +361,6 @@ cultural issues
 - Institutions vulnerable to political deadlocks 
   - Vetoes delay decisions 
 
-
 *Evaluation Criteria: **Ability to Act***
 
 
@@ -369,12 +369,23 @@ cultural issues
 # Evaluation - Strengths
 
 ## End of the Violence
+- Agreement improved day-to-day live for citizens
+- 
+
+---
+
+# Evaluation - Strengths 
+
+## Stable Political System
 
 ---
 
 # Evaluation
 
 ## Final Verdict
+- no definitive answer possible
+- cross community parties on uprise
+- ⁠tends to get sustainable at the moment 
 
 ---
 
