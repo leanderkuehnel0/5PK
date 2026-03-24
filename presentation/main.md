@@ -167,7 +167,7 @@ addressed and later peace walls were built
 # The Good Friday Agreement
 
 ## <span class="strand1">Northern Ireland Assembly</span>
-- 90 Elected Members 
+- 108 Elected Members 
 &rarr; self-designated Nationalist or Unionist
 - major decisions require cooperation between Nationalist and Unionist
 
@@ -188,6 +188,13 @@ addressed and later peace walls were built
 
 ## <span class="strand2">North/South Ministerial Council</span>
 
+- Ministers from Northern Ireland Executive and Irish Government
+  → cooperation and joint decision-making on cross-border issues
+- 6 formal areas of cooperation:
+  Agriculture, Education, Environment, Health, Tourism, Transport
+- Plenary meetings twice a year, led by First Minister & Taoiseach
+- *mutually interdependent with the Northern Ireland Assembly*
+
 ---
 
 # The Good Friday Agreement
@@ -205,6 +212,13 @@ addressed and later peace walls were built
 
 ## <span class="strand3a">British-Irish Council</span>
 
+- Representatives of British & Irish Governments and devolved
+  administrations: Scotland, Wales, Northern Ireland,
+  Isle of Man, Jersey, Guernsey
+- Purpose: exchange information and cooperate on matters
+  of mutual interest (transport, health, environment, education)
+- Meets twice a year at summit level
+  → Prime Minister and Taoiseach in attendance
 ---
 
 # The Good Friday Agreement
@@ -221,6 +235,15 @@ addressed and later peace walls were built
 # The Good Friday Agreement
 
 ## <span class="strand3b">British-Irish Intergovernmental Conference</span>
+
+- Replaced the Anglo-Irish Intergovernmental Conference (1985)
+- Regular meetings of British and Irish ministers
+  → bilateral cooperation on all matters of mutual interest
+- Co-chaired by Irish Minister for Foreign Affairs &
+  UK Secretary of State for Northern Ireland
+- Irish Government can put forward views on Northern Ireland
+  even for matters not yet devolved
+- When Assembly is suspended: devolved matters revert to BIIGC
 
 ---
 
@@ -307,6 +330,8 @@ cultural issues
   - Segregation in electoral behaviour
   - Resedential segregation
 
+*tolerance*
+
 ![bg right 90%](peace-lines.png)
 
 ---
@@ -317,6 +342,8 @@ cultural issues
 
 - Institutions vulnerable to political deadlocks 
   - Vetoes delay decisions 
+
+*ability to act*
 
 ---
 
@@ -337,7 +364,7 @@ cultural issues
 
 ---
 
-## References (1–4)
+# References (1–4)
 
 **Coakley, John** (2002)  
 *Religion, National Identity and Political Change in Modern Ireland*  
@@ -361,7 +388,7 @@ https://doi.org/10.16995/olh.251
 
 ---
 
-## References (5–8)
+# References (5–8)
 
 **Government of Ireland** (1998)  
 *Good Friday Agreement*  
@@ -383,7 +410,7 @@ https://www.humanrightsconsortium.org/government-betrays-good-friday-agreement-o
 
 ---
 
-## References (9-   12)
+<# References> (9-12)
 
 **Wallenfeldt, Jeff** (2019)  
 *The Troubles*  
@@ -404,3 +431,12 @@ https://www.ief.org.uk/wp-content/uploads/2023/04/TEUU-Report-18-Divided-Society
 *Northern Ireland: Power-Sharing in Crisis* 
 50 Shades of Federalism  
 http://50shadesoffederalism.com/case-studies/northern-ireland-power-sharing-in-crisis/
+
+---
+
+# References (13-13)
+
+**Coulter, Colin** (2019)
+*Northern Ireland's elusive peace dividend: Neoliberalism, austerity and the politics of class*
+Capital & Class, 43(1), pp. 123–138
+https://doi.org/10.1177/0309816818818309
