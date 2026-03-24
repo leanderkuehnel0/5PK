@@ -6,9 +6,28 @@ transition: fade
 
 paginate: false
 style: |
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
   section {
+    font-family: JetBrains Mono;
     font-size: 17px;
   }
+  h1 { view-transition-name: title; }
+  .strand1 { view-transition-name: strand1; }
+  .strand2 { view-transition-name: strand2; }
+  .strand3a { view-transition-name: strand3a; }
+  .strand3b { view-transition-name: strand3b; }
+
+  .attribution {
+    position: absolute;
+    bottom: 20px;
+    left: 20px; /* Use 'right' if your image is on the right */
+    font-size: 15px;
+    color: rgba(255,255,255,0.7);
+    z-index: 1;
+  }
+
+  
 
 footer: Alexander Heering & Leander Kühnel
 header: The Good Friday Agreement - sustainable peace or temporary solution?
@@ -46,19 +65,21 @@ header: The Good Friday Agreement - sustainable peace or temporary solution?
 peace?
 
 **Particular focus and why?**
-- If it was that good and sustainable, why do Irish people hate the
-British
-- What's the catch of the agreement
+- Good Friday Agreement
+- Developments leading upto it
 
 ---
+
+![bg right:40% 100%](https://dcc.dickinson.edu/sites/default/files/Map%20of%20provinces.gif)
 
 # Background of the Troubles
 
 **Government of Ireland Act**
+- "Old English" displacing Irish in Ulster
 - Division of the Isle of Ireland in Northern Ireland and Republic of
 Ireland
 systematic discrimination of Catholics:
-- protestants outnumbered Catholics -> biased voting
+- protestants outnumbered Catholics &rarr; biased voting
 - limited representation of Catholics
 
 **Key actors:**
@@ -68,18 +89,29 @@ systematic discrimination of Catholics:
 
 ---
 
+
+
 # Background of the Troubles
 
 **Civil rights movement**
 - NICRA organizes marches to protest against discrimination and
-“gerrymandering” -> violent suppression of marchers by RUC; arrival
-of British army
+“gerrymandering” &rarr; violent suppression of marchers by RUC
 - Battle of Bogside
-Key actors: NICRA, British army, RUC
-Background of the Troubles
-Emergence of the Provisional IRA (Provos) and loyalist paramilitaries
-- British army ultimately viewed as enemy -> IRA as defenders of the
-nationalist cause
+- arrival of British army
+
+**Key actors**:
+- NICRA
+- RUC
+- British army
+
+---
+
+![bg left:36%](./british-soldier.png)
+
+# Background of the Troubles
+**Emergence of the Provisional IRA (Provos) and loyalist paramilitaries**
+- British army ultimately viewed as enemy 
+&rarr; IRA as defenders of the nationalist cause
 - Armed Unionist organizations: UVF, UDA
 
 **Key actors:** 
@@ -87,12 +119,14 @@ nationalist cause
 
 ---
 
+![bg right:36%](https://cdn.britannica.com/47/267147-050-F21DB787/Bloody-Sunday-demonstrators-arrested-by-British-Army-January-30-1972-Londonderry-Derry-Northern-Ireland.jpg)
+
 # Background of the Troubles
 **Internment, "peace walls“, and „Bloody Sunday“**
 - To reduce the worsening violence nationalist grievances were
 addressed and later peace walls were built
-- Bloody Sunday: British troops fired on catholic civil rights activists ->
-highest level of recruitment in Provisional IRA
+- Bloody Sunday: British troops fired on catholic civil rights activists 
+&rarr; highest level of recruitment in Provisional IRA
 
 **Key actors:** 
 - Northern Ireland government
@@ -114,7 +148,7 @@ highest level of recruitment in Provisional IRA
 
 # Background: The Troubles
 - started in 1968
-- ended with the Goof Friday Agreement in 1998
+- ended with the Good Friday Agreement in 1998
 - 3500 casulties and more than 40.000 injured
 
 ---
@@ -122,23 +156,81 @@ highest level of recruitment in Provisional IRA
 # The Good Friday Agreement
 
 **The Three Strands**
-- Strand 1:
-  - Northern Ireland Assembly
-
-- Strand 2: 
-  - North/South Ministerial Council
-- Strand 3:
-  - British-Irish Council
-  - British-Irish Intergovernmental Conference
+- Strand 1: <span class="strand1">Northern Ireland Assembly</span>
+- Strand 2: <span class="strand2">North/South Ministerial Council</span>
+- Strand 3: 
+  - <span class="strand3a">British-Irish Council</span>
+  - <span class="strand3b">British-Irish Intergovernmental Conference</span>
 
 ---
 
 # The Good Friday Agreement
 
+## <span class="strand1">Northern Ireland Assembly</span>
+- 90 Elected Members 
+&rarr; self-designated Nationalist or Unionist
+- major decisions require cooperation between Nationalist and Unionist
+
+---
+
+# The Good Friday Agreement
+
+**The Three Strands**
+- Strand 1: <span class="strand1">Northern Ireland Assembly</span>
+- Strand 2: <span class="strand2">North/South Ministerial Council</span>
+- Strand 3: 
+  - <span class="strand3a">British-Irish Council</span>
+  - <span class="strand3b">British-Irish Intergovernmental Conference</span>
+
+---
+
+# The Good Friday Agreement
+
+## <span class="strand2">North/South Ministerial Council</span>
+
+---
+
+# The Good Friday Agreement
+
+**The Three Strands**
+- Strand 1: <span class="strand1">Northern Ireland Assembly</span>
+- Strand 2: <span class="strand2">North/South Ministerial Council</span>
+- Strand 3: 
+  - <span class="strand3a">British-Irish Council</span>
+  - <span class="strand3b">British-Irish Intergovernmental Conference</span>
+
+---
+
+# The Good Friday Agreement
+
+## <span class="strand3a">British-Irish Council</span>
+
+---
+
+# The Good Friday Agreement
+
+**The Three Strands**
+- Strand 1: <span class="strand1">Northern Ireland Assembly</span>
+- Strand 2: <span class="strand2">North/South Ministerial Council</span>
+- Strand 3: 
+  - <span class="strand3a">British-Irish Council</span>
+  - <span class="strand3b">British-Irish Intergovernmental Conference</span>
+
+---
+
+# The Good Friday Agreement
+
+## <span class="strand3b">British-Irish Intergovernmental Conference</span>
+
+---
+
+
+# The Good Friday Agreement
+
 **Principle of Consent**
-- Legally recognized Northern Ireland as part of the UK.
+- Legally recognized Northern Ireland as part of the UK
 - "Border Poll" - United Ireland only possible with majority in North and South
-- Republic of Ireland amended removed territorial claim to the North from constitution
+- Republic of Ireland removed territorial claim to the North from constitution
 
 **Security and Justice Reforms**
 - decommissioning of paramilitary groups
@@ -147,6 +239,7 @@ highest level of recruitment in Provisional IRA
 
 ---
 
+![bg right 100%](bill-of-rights-poll.png)
 
 # The Good Friday Agreement
 
@@ -186,9 +279,61 @@ highest level of recruitment in Provisional IRA
 
 ## Social/Cultural Dimension
 
-- promoting the usage of the Irish Language
-- civic forum (new institution responsible for social, economical andn cultural issues)
+- building mutual respect
+- police reform
+- civic forum
+> A consultative Civic Forum will be established.[...] 
+It will act as a consultative mechanism on social, economic and
+cultural issues
+
 &rarr; *too little done to address the issues*
+
+---
+
+# Evaluation
+
+| Weaknesses (&rarr; temporary solution) | Strengths (&rarr; sustainable peace) |
+| ---         | ---         |
+| Divided Society | Ended the immediate Violence|
+| Political Stalling | Provided political Stability for 25 Years |
+---
+
+# Evaluation - Weaknesses
+
+## Divided Society
+
+- Ongoing Division
+  - Schools separated religiously
+  - Segregation in electoral behaviour
+  - Resedential segregation
+
+![bg right 90%](peace-lines.png)
+
+---
+
+# Evaluation - Weaknesses
+
+## Political Stalling
+
+- Institutions vulnerable to political deadlocks 
+  - Vetoes delay decisions 
+
+---
+
+# Evaluation - Strengths
+
+
+---
+
+# Evaluation
+
+## Final Verdict
+
+---
+
+# Evaluation
+
+## Possible Improvments
 
 ---
 
@@ -238,19 +383,24 @@ https://www.humanrightsconsortium.org/government-betrays-good-friday-agreement-o
 
 ---
 
-## References (9–11)
+## References (9-   12)
 
 **Wallenfeldt, Jeff** (2019)  
 *The Troubles*  
 Encyclopedia Britannica  
 https://www.britannica.com/event/The-Troubles-Northern-Ireland-history  
 
-**Guelke, Adrian** (2007)  
-*The Northern Ireland Peace Process and the War against Terrorism*  
-Government and Opposition, 42(3), pp. 272–291  
-https://doi.org/10.1111/j.1477-7053.2007.00224.x  
-
 **Renwick, Alan & Kelly, Conor** (2023)  
 *Perspectives on the Belfast/Good Friday Agreement*  
-University Collage London  
-https://www.ucl.ac.uk/social-historical-sciences/...  
+University Collage London
+https://www.ucl.ac.uk/social-historical-sciences/sites/social_historical_sciences/files/205_-_perspectives_on_the_belfast_good_friday_agreement.pdf
+
+**Dr. Roulston, S.** (2023)
+*The cost of division in Northern Ireland*
+Ulster University
+https://www.ief.org.uk/wp-content/uploads/2023/04/TEUU-Report-18-Divided-Society-Divided-Education.pdf 
+
+**Murtagh, Cera** (2019)  
+*Northern Ireland: Power-Sharing in Crisis* 
+50 Shades of Federalism  
+http://50shadesoffederalism.com/case-studies/northern-ireland-power-sharing-in-crisis/

@@ -18,3 +18,9 @@ we chose this particular question because it represents the conflict present dur
 ich introduction
 alex 45 ich 67
 overview troubles
+eigene slides für strands
+soldier komplett im bild auf slide
+diagramm einbauen
+quotes from agreement on strand pages
+ended the violence argument (25year article)
+outcome most likely one (linguistic analysis)
