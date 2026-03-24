@@ -169,8 +169,11 @@ addressed and later peace walls were built
 ## <span class="strand1">Northern Ireland Assembly</span>
 - 108 Elected Members 
 &rarr; self-designated Nationalist or Unionist
-- major decisions require cooperation between Nationalist and Unionist
+> A 108-member Assembly will be elected by PR(STV) from existing
+Westminster constituencies.
 
+- major decisions require cooperation between Nationalist and Unionist
+> ...key decisions are taken on a cross-community basis
 ---
 
 # The Good Friday Agreement
@@ -189,11 +192,13 @@ addressed and later peace walls were built
 ## <span class="strand2">North/South Ministerial Council</span>
 
 - Ministers from Northern Ireland Executive and Irish Government
-  → cooperation and joint decision-making on cross-border issues
-- 6 formal areas of cooperation:
-  Agriculture, Education, Environment, Health, Tourism, Transport
-- Plenary meetings twice a year, led by First Minister & Taoiseach
+  → cooperation and decision-making on cross-border issues
+- 6 formal areas of cooperation
+- Plenary meetings twice a year
 - *mutually interdependent with the Northern Ireland Assembly*
+> The North/South Ministerial Council and the Northern Ireland
+Assembly are mutually inter-dependent, and that one cannot
+successfully function without the other.
 
 ---
 
@@ -211,14 +216,15 @@ addressed and later peace walls were built
 # The Good Friday Agreement
 
 ## <span class="strand3a">British-Irish Council</span>
+- membership: British & Irish Governments, devolved institutions
+  in NI, Scotland, Wales, Isle of Man and Channel Islands
+- meets at summit level twice per year
 
-- Representatives of British & Irish Governments and devolved
-  administrations: Scotland, Wales, Northern Ireland,
-  Isle of Man, Jersey, Guernsey
-- Purpose: exchange information and cooperate on matters
-  of mutual interest (transport, health, environment, education)
-- Meets twice a year at summit level
-  → Prime Minister and Taoiseach in attendance
+> A British-Irish Council (BIC) will be established [...] to promote
+the harmonious and mutually beneficial development of the totality
+of relationships among the peoples of these islands.
+
+
 ---
 
 # The Good Friday Agreement
@@ -235,15 +241,14 @@ addressed and later peace walls were built
 # The Good Friday Agreement
 
 ## <span class="strand3b">British-Irish Intergovernmental Conference</span>
-
-- Replaced the Anglo-Irish Intergovernmental Conference (1985)
-- Regular meetings of British and Irish ministers
-  → bilateral cooperation on all matters of mutual interest
-- Co-chaired by Irish Minister for Foreign Affairs &
+- replaces institutions established under the 1985 Anglo-Irish Agreement
+- co-chaired by Irish Minister for Foreign Affairs &
   UK Secretary of State for Northern Ireland
-- Irish Government can put forward views on Northern Ireland
-  even for matters not yet devolved
-- When Assembly is suspended: devolved matters revert to BIIGC
+- Irish Government can put forward views on non-devolved NI matters
+
+> It will establish a standing British-Irish Intergovernmental
+Conference, which will subsume both the Anglo-Irish Intergovernmental Council and
+the Intergovernmental Conference established under the 1985 Agreement.
 
 ---
 
@@ -255,10 +260,22 @@ addressed and later peace walls were built
 - "Border Poll" - United Ireland only possible with majority in North and South
 - Republic of Ireland removed territorial claim to the North from constitution
 
+> It is hereby declared that Northern Ireland in its entirety remains
+part of the United Kingdom and shall not cease to be so without the
+consent of a majority of the people of Northern Ireland.
+
+---
+
+# The Good Friday Agreement
+
 **Security and Justice Reforms**
 - decommissioning of paramilitary groups
+> All participants accordingly reaffirm their commitment to the total
+disarmament of all paramilitary organisations.
 - police reforms
 - prisoner release
+> Both Governments will put in place mechanisms to provide for an
+accelerated programme for the release of prisoners.
 
 ---
 
@@ -317,8 +334,8 @@ cultural issues
 
 | Weaknesses (&rarr; temporary solution) | Strengths (&rarr; sustainable peace) |
 | ---         | ---         |
-| Divided Society | Ended the immediate Violence|
-| Political Stalling | Provided political Stability for 25 Years |
+| Divided Society | End of the Violence|
+| Political Stalling | Stable Political System |
 ---
 
 # Evaluation - Weaknesses
@@ -330,7 +347,7 @@ cultural issues
   - Segregation in electoral behaviour
   - Resedential segregation
 
-*tolerance*
+*Evaluation Criteria: **Tolerance***
 
 ![bg right 90%](peace-lines.png)
 
@@ -343,12 +360,15 @@ cultural issues
 - Institutions vulnerable to political deadlocks 
   - Vetoes delay decisions 
 
-*ability to act*
+
+*Evaluation Criteria: **Ability to Act***
+
 
 ---
 
 # Evaluation - Strengths
 
+## End of the Violence
 
 ---
 
