@@ -368,7 +368,7 @@ cultural issues
 
 ## End of the Violence
 - Agreement improved day-to-day live for citizens
-> But my teenage years were immeasurably safer and more normal than those of my parents, largely because of the Agreement and the work which led up to it
+> [...] my teenage years were immeasurably safer and more normal than those of my parents, largely because of the Agreement and the work which led up to it
 - Most paramilitary organizations stopped fighting
 
 
@@ -402,6 +402,11 @@ cultural issues
 &rarr; adresses residential segregation
 - Development of new social reconciliation strategies
 &rarr; preferrably also legally binding
+
+---
+
+# Thank you for your attention!
+## Sources &rarr;
 
 ---
 

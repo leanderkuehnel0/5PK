@@ -7,13 +7,16 @@
 
 - intercommunal violence decreased rapidly, not only in cities but also in rural areas 
 
-- as result of this daily life became much safer for the general population, especially for young people growing up after 1998
+- as result of this daily life became much safer for the general population, especially for young people growing up after 1998 which can best be seen by looking at quote of what normal people had to say about the agreement:
 
-- because of this, agreement was generally recognized as positive by the "normal" people -> 71% in NI and 94% in RoI
+- quote is from Siobhan Haire, a woman, who, in her opnn grew up mm normal than her parents
+
+
+-  becauseof this, agreement was generally recognized as positive by big maj. o. the "normal" people -> 71% in NI and 94% in RoI
 
 ---
 
-- the second big strength was of gfa, it provided a slow, but stable and working political system for the 28 years after the agreement
+- the second big strength of gfa, was t. it provided a slow, but stable and working political system for the 28 years after the agreement
 
 - for the first time in a long time NI had a local, from the uk devolved government, in which both unionists and nationalist are pretty much equally represented
 
@@ -25,4 +28,12 @@
 
 ---
 
-optimal: 1 min - 1:30 min hierfuer
+- bc, as al said, the division in the northen irish society is slowly receding and mutual resprect steadily improving, both sides could try again to finally implement all of the changes the agreement promised.
+
+- could be done for ex. through legally binding deadlines for the formation of a civic forum or the implementation of a bill of rights
+
+- could even further improve cooperation and respect
+
+- could also be effort to finally remove peace walls, in hope that the unionist and nationalist neighbourhoods would slowly mix over time, ending residential segregation
+
+- finally, development of new social reconciliation strategies, to 
