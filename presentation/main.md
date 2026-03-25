@@ -38,22 +38,37 @@ header: The Good Friday Agreement - sustainable peace or temporary solution?
 
 ---
 
-# Table on Contents
+# Table of Contents
 1. Introduction
-1.1 Defining the leading question
-1.2 Particular focus and why
-2. Background: The Troubles
-2.1 Structural causes of the Troubles
-2.2 Main actors during the conflict
+   1.1 Defining the leading question
+   1.2 Particular focus and why
+2. Background of the Troubles
+   2.1 Government of Ireland Act & Discrimination of Catholics
+   2.2 Civil Rights Movement
+   2.3 Emergence of the Provisional IRA & Loyalist Paramilitaries
+   2.4 Internment, Peace Walls & Bloody Sunday
+   2.5 First Peace Talks
+
+---
+
+# Table of Contents (2)
+
 3. The Good Friday Agreement
-3.1 Core provisions
-3.2 Influence of key actors on the contents of the agreement
-3.3 Institutional reforms
-3.4 Reactions of key actors
+   3.1 The Three Strands
+   3.2 Principle of Consent
+   3.3 Security and Justice Reforms
+   3.4 Legal Dimension
+   3.5 Political and Institutional Dimension
+   3.6 Economical Dimension
+   3.7 Social/Cultural Dimension
 4. Evaluation
-5.1 Weighing the achievements
-5.2 Weighing the weaknesses
-5.3 Final judgement
+   4.1 Overview
+   4.2 Weaknesses: Divided Society
+   4.3 Weaknesses: Political Stalling
+   4.4 Strengths: End of the Violence
+   4.5 Strengths: Stable Political System
+   4.6 Final Verdict
+   4.7 Possible Improvements
 
 ---
 
@@ -66,7 +81,7 @@ peace?
 
 **Particular focus and why?**
 - Good Friday Agreement
-- Developments leading upto it
+- Developments leading up to it
 
 ---
 ![bg right:40% 100%](https://dcc.dickinson.edu/sites/default/files/Map%20of%20provinces.gif)
@@ -148,7 +163,7 @@ Ireland
 ---
 ![bg left:39%](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/112B1/production/_100712307_hi017054094.jpg.webp)
 # The Good Friday Agreement
-- Peace Treaty signed by Brith and Irish gouvernments on April 10, 1998
+- Peace Treaty signed by British and Irish governments on April 10, 1998
 
 ---
 
@@ -298,7 +313,7 @@ accelerated programme for the release of prisoners.
 ## Political and Institutional Dimension
 
 - classic model of power sharing
-- negotiated conflict managament
+- negotiated conflict management
 
 *institutions only work if all stakeholders cooperate* 
 
@@ -344,7 +359,7 @@ cultural issues
 - Ongoing Division
   - Schools separated religiously
   - Segregation in electoral behaviour
-  - Resedential segregation
+  - Residential segregation
 
 *Evaluation Criteria: **Tolerance***
 
@@ -367,7 +382,7 @@ cultural issues
 # Evaluation - Strengths
 
 ## End of the Violence
-- Agreement improved day-to-day live for citizens
+- Agreement improved day-to-day life for citizens
 > [...] my teenage years were immeasurably safer and more normal than those of my parents, largely because of the Agreement and the work which led up to it
 - Most paramilitary organizations stopped fighting
 
@@ -396,12 +411,12 @@ cultural issues
 
 # Evaluation
 
-## Possible Improvments
+## Possible Improvements
 - Legally binding deadlines for Bill of Rights and a permanent Civic Forum
 - Removal of peace walls
-&rarr; adresses residential segregation
+&rarr; addresses residential segregation
 - Development of new social reconciliation strategies
-&rarr; preferrably also legally binding
+&rarr; preferably also legally binding
 
 ---
 
@@ -444,8 +459,8 @@ https://assets.ireland.ie/documents/good-friday-agreement.pdf
 
 **Walker, Alex** (2023)  
 *Unionism and the Belfast/Good Friday Agreement*
-UK in a changin Europe
-https://ukandeu.ac.uk/unionism-and-the-belfast-good-friday-agreement/  
+UK in a Changing Europe
+https://ukandeu.ac.uk/unionism-and-the-belfast-good-friday-agreement/
 
 **Haire, Siobhan** (2020)  
 *Building a Lasting Peace: 25 Years of the Good Friday Agreement*  
@@ -469,7 +484,7 @@ https://www.britannica.com/event/The-Troubles-Northern-Ireland-history
 
 **Renwick, Alan & Kelly, Conor** (2023)  
 *Perspectives on the Belfast/Good Friday Agreement*  
-University Collage London
+University College London
 https://www.ucl.ac.uk/social-historical-sciences/sites/social_historical_sciences/files/205_-_perspectives_on_the_belfast_good_friday_agreement.pdf
 
 **Dr. Roulston, Stephen** (2023)
@@ -519,7 +534,7 @@ https://www.britannica.com/event/The-Troubles-Northern-Ireland-history#/media/1/
 
 ---
 
-# Media Sources (4-8)
+# Media Sources (4-10)
 
 **Whyte's** (1998)
 *The front cover of the Good Friday Agreement, signed by the participants*
@@ -531,7 +546,7 @@ https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/112B1/production/_100712307_
 York University
 https://gjis.journals.yorku.ca/index.php/gjis/article/download/40244/36419/50211
 
-**McQuillan, Charles** (2023)u
+**McQuillan, Charles** (2023)
 *Good Friday Agreement Anniversary*
-UK in a changin Europe
+UK in a Changing Europe
 https://media.ukandeu.ac.uk/wp-content/uploads/2023/04/Charles-McQuillan-Stringer-Good-Friday-Agreement-anniversary-edited-2000x1235.jpg
