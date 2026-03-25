@@ -36,4 +36,8 @@
 
 - could also be effort to finally remove peace walls, in hope that the unionist and nationalist neighbourhoods would slowly mix over time, ending residential segregation
 
-- finally, development of new social reconciliation strategies, to 
+- finally, development of new social reconciliation strategies could be engouraged, in order to maybe one day have a single, united, northern irish society
+
+---
+
+thank you for your attention!
